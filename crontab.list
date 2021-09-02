@@ -1,9 +1,0 @@
-58 7,15,23 * * * /usr/bin/node /root/jd/scripts/jd-task-validate.js
-0 0,8,16 * * * /usr/bin/node /root/jd/scripts/jd-reward-joy.js
-30 7,15,23 * * * /usr/bin/node /root/jd/scripts/jd-task-invokeKey.js
-22 8,23 * * * /usr/bin/node /root/jd/scripts/jd-task-price.js
-0 0 * * * /usr/bin/node /root/jd/scripts/jx-help-factory.js
-0 0 * * * /usr/bin/node /root/jd/scripts/jx-help-fortune.js
-24 */4 * * * /usr/bin/node /root/jd/scripts/jr-task-pigPet.js
-*/20 0,6-23 * * * /usr/bin/node /root/jd/scripts/jx-task-fortune.js
-2 0,6-22/3 * * * /usr/bin/node /root/jd/scripts/jd-task-cookie.js
